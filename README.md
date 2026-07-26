@@ -1,6 +1,6 @@
 # Genetic Algorithm
 
-Under construction.
+An interactive genetic algorithm demo that evolves solutions to maximize a 2D quadratic function, visualized in a ratatui terminal UI. Includes tournament selection, crossover, mutation, and elitism with live fitness statistics.
 
 ## ScreenShots
 
